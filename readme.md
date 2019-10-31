@@ -2,7 +2,7 @@
 
 Run lighthouse in your CI
 
-This CLI will start a chrome instance in headless mode and run lighthouse to the urls you specified, checking
+This CLI will start a chrome instance in headless mode and run lighthouse on the urls you specified, checking
 that your scores match your expectations.
 
 ## Install
